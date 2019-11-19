@@ -5,4 +5,5 @@ git commit
 git add
 git push
 
-			
+			git clone xxxxxx .
+$ git push -u origin KW
